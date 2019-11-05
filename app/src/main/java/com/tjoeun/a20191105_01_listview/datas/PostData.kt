@@ -4,5 +4,5 @@ class PostData(inputTitle:String,inputContent:String) {
 
     var title=inputTitle
     var content=inputContent
-    
+
 }
