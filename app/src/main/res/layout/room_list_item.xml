@@ -25,10 +25,10 @@
         </LinearLayout>
 
         <ImageView
-            android:layout_marginRight="10dp"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@mipmap/ic_launcher"/>
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/ic_launcher" />
 
         <TextView
             android:layout_width="wrap_content"
